@@ -7,8 +7,8 @@ const listings = [
     categoryId: 5,
     userId: 1,
     location: {
-      latitude: 37.78825,
-      longitude: -122.4324,
+      latitude: 9.0543071,
+      longitude: 7.254269,
     },
   },
   {
@@ -19,8 +19,8 @@ const listings = [
     price: 1200,
     userId: 2,
     location: {
-      latitude: 37.78825,
-      longitude: -122.4324,
+      latitude: 9.0543071,
+      longitude: 7.254269,
     },
   },
   {
@@ -37,8 +37,8 @@ const listings = [
     categoryId: 1,
     userId: 1,
     location: {
-      latitude: 37.78825,
-      longitude: -122.4324,
+      latitude: 9.0543071,
+      longitude: 7.254269,
     },
   },
   {
@@ -49,8 +49,8 @@ const listings = [
     price: 100,
     userId: 2,
     location: {
-      latitude: 37.78825,
-      longitude: -122.4324,
+      latitude: 9.0543071,
+      longitude: 7.254269,
     },
   },
   {
@@ -61,8 +61,8 @@ const listings = [
     categoryId: 3,
     userId: 1,
     location: {
-      latitude: 37.78825,
-      longitude: -122.4324,
+      latitude: 9.0543071,
+      longitude: 7.254269,
     },
   },
   {
@@ -73,8 +73,8 @@ const listings = [
     categoryId: 3,
     userId: 1,
     location: {
-      latitude: 37.78825,
-      longitude: -122.4324,
+      latitude: 9.0543071,
+      longitude: 7.254269,
     },
   },
   {
@@ -86,8 +86,8 @@ const listings = [
     price: 950,
     userId: 2,
     location: {
-      latitude: 37.78825,
-      longitude: -122.4324,
+      latitude: 9.0543071,
+      longitude: 7.254269,
     },
   },
   {
@@ -98,8 +98,8 @@ const listings = [
     price: 50,
     userId: 2,
     location: {
-      latitude: 37.78825,
-      longitude: -122.4324,
+      latitude: 9.0543071,
+      longitude: 7.254269,
     },
   },
 ];
